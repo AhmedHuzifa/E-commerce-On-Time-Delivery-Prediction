@@ -1,0 +1,24 @@
+order = {
+    'warehouse_block': 'F',
+    'mode_of_shipment': 'Flight',
+    'customer_care_calls': 3,
+    'customer_rating': 'very_low',
+    'cost_of_the_product': 162,
+    'prior_purchases': 3,
+    'product_importance': 'medium',
+    'discount_offered': 12,
+    'weight': 1417,
+}
+
+
+json_order = {
+  "warehouse_block": "F",
+  "mode_of_shipment": "Flight",
+  "customer_care_calls": 3,
+  "customer_rating": "very_low",
+  "cost_of_the_product": 162,
+  "prior_purchases": 3,
+  "product_importance": "medium",
+  "discount_offered": 12,
+  "weight": 1417
+}
